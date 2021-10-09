@@ -22,6 +22,8 @@ In the TAB window you will see at the top of your screen the position 0, and at 
 
 One thing to note is that a stack is cleared every time you close or reset Receiver. If you wish to save it, you can use [Stack: Stringify]({{ "commands/stack#stackstringify" | relative_url }}) and [File: Save String]({{ "commands/file#filesavestring" | relative_url }}) commands.
 
+Some change.
+
 
 
 
